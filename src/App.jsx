@@ -43,7 +43,7 @@ render() {
         }
       </div>
       <p id="display">{this.state.text}</p>
-      <div className="dev">by <a href="https://codepen.io/VadymPopov">Vadym Popov</a></div>
+      <div className="dev">by <a href="https://github.com/VadymPopov/drum-machine">Vadym Popov</a></div>
     </div>
     )
   }
